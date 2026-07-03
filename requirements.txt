@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo[srv]
+certifi
+joblib
+numpy
+pandas
+lightgbm
