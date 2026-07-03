@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 
 **DefaultShield™** is a production-grade, high-throughput financial technology API gateway built to evaluate applicant **credit default risk in real time** during e-commerce checkout flows.
 
